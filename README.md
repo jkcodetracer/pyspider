@@ -1,0 +1,3 @@
+# pyspider
+
+A python spider to fetch information from a http website. No anti-spider system...
